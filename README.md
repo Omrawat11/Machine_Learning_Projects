@@ -21,8 +21,8 @@ Think of this repo as a **personal ML playground and portfolio log** — a mix o
 
 | Project | Type | Description |
 |---|---|---|
-| 💎 **Diamond Price Prediction** | Regression | Predicts diamond prices based on features like carat, cut, color, and clarity. |
-| 🧠 **Stroke Prediction** | Classification | Predicts the likelihood of a stroke based on health and lifestyle attributes. |
+| 💎 ** Diamond Price Prediction ** | Regression | Predicts diamond prices based on features like carat, cut, color, and clarity. |
+| 🧠 ** Stroke Prediction ** | Classification | Predicts the likelihood of a stroke based on health and lifestyle attributes. |
 | ⚡ **AdaBoost** | Ensemble Learning | Implementation/experiments using the AdaBoost boosting algorithm. |
 | 🔥 **Calories Burn Prediction** | Regression | Predicts calories burned during exercise using physiological features. |
 | 🏋️ **Gym Membership** | Classification/EDA | Analysis and prediction related to gym membership data. |
